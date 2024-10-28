@@ -1,0 +1,28 @@
+.card {
+  width: 400px;
+}
+
+.card-white {
+  background-color: white;
+  padding: 8px;
+}
+
+.card-img {
+  height: 200px;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+}
+
+.list-inline {
+  color: #B0B0B0;
+  text-align: right;
+}
+
+.profile {
+  display: flex;
+  align-items: center;
+  /* justify-content: center; */
+  gap: 16px;
+  padding: 8px;
+}
